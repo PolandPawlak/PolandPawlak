@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolandPawlak
-- 👀 I’m interested in linux, python, html
-- 🌱 I’m currently learning arch
+- 👀 I’m interested in IT and coding
+- 🌱 I’m currently learning Arduino
 - I'm 12 yo 👻
 - I loooooove linux🐧
 
